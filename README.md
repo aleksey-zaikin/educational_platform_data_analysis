@@ -48,19 +48,19 @@ ARPU считается относительно всех пользовател
 
 **default.studs**:
 
-st_id (int) - ID ученика
+* st_id (int) - ID ученика
 
-test_grp (text) - Метка ученика в данном эксперименте
+* test_grp (text) - Метка ученика в данном эксперименте
 
 **default.final_project_check**:
 
-st_id (int) - ID ученика
+* st_id (int) - ID ученика
 
-sale_time (timestamp) - Время покупки
+* sale_time (timestamp) - Время покупки
 
-money (int) - Цена, по которой приобрели данный курс
+* money (int) - Цена, по которой приобрели данный курс
 
-subject (text) - Дисциплина в которой находится задание 	
+* subject (text) - Дисциплина в которой находится задание 	
 
 ### 3. Реализация функций на Python
 
